@@ -1,0 +1,14 @@
+.reveal img.avatar {
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+  }
+
+  .flex-container {
+    display: inline;
+  }
+  .flex-container-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
