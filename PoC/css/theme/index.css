@@ -12,3 +12,8 @@
     justify-content: center;
     align-items: center;
   }
+
+  .hero-image {
+    background-image: url("/img/front.png");
+    background-repeat: no-repeat
+  }
