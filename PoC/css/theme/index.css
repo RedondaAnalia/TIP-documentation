@@ -17,3 +17,9 @@
     background-image: url("/img/front.png");
     background-repeat: no-repeat
   }
+
+  .background-front {
+    background-position:center;
+    background-size: 100%;
+    background-repeat: no-repeat
+  }
