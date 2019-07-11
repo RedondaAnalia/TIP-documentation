@@ -1,0 +1,45 @@
+.reveal img.avatar {
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+  }
+
+  .flex-container {
+    display: inline;
+  }
+  .flex-container-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+    
+  .background-front {
+    background-size: initial;
+    background-repeat: no-repeat;
+
+  }
+.item1 {
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  width:50%;
+  z-index:-10;
+}
+
+.item2 {
+  left:31.25%;
+  top: 75px;
+  float: right;
+  text-align: right;
+  z-index:-10;
+  width:50%;
+}
+.item3 {
+  left:31.25%;
+  top: 75px;
+  float: right;
+  text-align: right;
+  z-index:-10;
+  width:30%;
+}
+.reveal img.noborder { background:none; border:none; box-shadow:none; }
