@@ -12,16 +12,34 @@
     justify-content: center;
     align-items: center;
   }
-
-  .hero-image {
-    background-image: url("/img/front.png");
-    background-repeat: no-repeat
-  }
-
+    
   .background-front {
-    background-position:center;
-    background-size: 100%;
-    background-repeat: no-repeat
-  }
+    background-size: initial;
+    background-repeat: no-repeat;
 
+  }
+.item1 {
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  width:50%;
+  z-index:-10;
+}
+
+.item2 {
+  left:31.25%;
+  top: 75px;
+  float: right;
+  text-align: right;
+  z-index:-10;
+  width:50%;
+}
+.item3 {
+  left:31.25%;
+  top: 75px;
+  float: right;
+  text-align: right;
+  z-index:-10;
+  width:30%;
+}
 .reveal img.noborder { background:none; border:none; box-shadow:none; }
