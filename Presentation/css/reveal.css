@@ -1541,6 +1541,11 @@ body {
     margin-bottom: 10px;
     opacity: 0.5; }
 
+.reveal section img {
+  background: rgba(255, 255, 255, 0.12);
+  border: 4px solid #eeeeee;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+
 .reveal.show-notes {
   max-width: 75%;
   overflow: visible; }

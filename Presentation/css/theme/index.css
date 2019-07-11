@@ -23,3 +23,5 @@
     background-size: 100%;
     background-repeat: no-repeat
   }
+
+.reveal img.noborder { background:none; border:none; box-shadow:none; }
